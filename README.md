@@ -71,9 +71,9 @@ DESIGNED FOR INDIVIDUALS & ORGANIZATIONS NAVIGATING GLOBAL MOBILITY
 
 ## Setup Instructions
  - 1.Clone the repository using git clone https://github.com/akabundi/Team-Coders_ET-Gen-AI-Hackathon.git then cd Team-Coders_ET-Gen-AI-Hackathon
- - 2. Install required dependencies using pip install -r requirements.txt
- - 3. Setup environment variable for which create .env file in root includes AZURE_OPENAI_KEY=your_api_key and AZURE_OPENAI_ENDPOINT=your_endpoint
- - 4 Run backend server using uvicorn backend.main:app --reload --port 8007
+ - 2.Install required dependencies using pip install -r requirements.txt
+ - 3.Setup environment variable for which create .env file in root includes AZURE_OPENAI_KEY=your_api_key and AZURE_OPENAI_ENDPOINT=your_endpoint
+ - 4.Run backend server using uvicorn backend.main:app --reload --port 8007
  - 5.Run frontend server using streamlit run frontend/app.py
 
      
