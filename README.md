@@ -8,20 +8,20 @@ This gap inspired us to build an **AI-powered Global Mobility Assistant** — a 
 
 ## 🚀 Solution
 
-- Al visa requirement summarizer
-- Country mobility Q&A chatbot
-- Relocation checklist generator
-- Document verification tracker
-- Al confidence score
+- **Al visa requirement summarizer
+- **Country mobility Q&A chatbot
+- **Relocation checklist generator
+- **Document verification tracker
+- **Al confidence score
 ## Architecture
 - **Frontend**: Streamlit
-      - Interactive mobility form UI
-      - Collects country, purpose, job & visa inputs
-      - Sends structured JSON request
+      - **Interactive mobility form UI
+      - **Collects country, purpose, job & visa inputs
+      - **Sends structured JSON request
 - **Backend**: FastAPI
-      - Summary REST endpoint
-      - Visa rule & eligibility engine
-      - Checklist + document mapper
+      - **Summary REST endpoint
+      - **Visa rule & eligibility engine
+      - **Checklist + document mapper
 - **AI Layer**
        - **Visa requirement summarizer
       - **Context-based reasoning
