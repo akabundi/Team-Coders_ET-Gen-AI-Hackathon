@@ -69,7 +69,7 @@ DESIGNED FOR INDIVIDUALS & ORGANIZATIONS NAVIGATING GLOBAL MOBILITY
       - **Comparing flexible mobility programs
       - **Need quick AI-powered summaries and eligibility insights
 
-#Setup Instructions
+## Setup Instructions
  1.Clone the repository using git clone https://github.com/akabundi/Team-Coders_ET-Gen-AI-Hackathon.git then cd Team-Coders_ET-Gen-AI-Hackathon
  2. Install required dependencies using pip install -r requirements.txt
  3. Setup environment variable for which create .env file in root includes AZURE_OPENAI_KEY=your_api_key and AZURE_OPENAI_ENDPOINT=your_endpoint
